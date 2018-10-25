@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c856dfbb-d808-421b-b467-4668cf26ee45" name="Default Changelist" comment="" />
+    <list default="true" id="c856dfbb-d808-421b-b467-4668cf26ee45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea1_met.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/ArcherUnit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/Attackable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/Attacker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/Barracks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/Building.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/Castle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/CavalryUnit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/DefBuilding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/Entity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/InfantryUnit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/Monk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/NonDefBuilding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/SiegeUnit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/Unit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/Villager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tarea1_met/packageTarea1/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Tarea1_met/packageTarea1/Test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/ArcherUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/Attackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/Attacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/Barracks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/Castle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/CavalryUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/DefBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/InfantryUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/Monk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/NonDefBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/SiegeUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/Test/packageTarea1/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/Villager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageTarea1/test.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,10 +55,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Tarea1_met$All_in_Tarea1_met.ic" NAME="All in Tarea1_met Coverage Results" MODIFIED="1540504058319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Tarea1_met$Test.ic" NAME="Test Coverage Results" MODIFIED="1540504743698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>packageTarea1.Test.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Tarea1_met$All_in_Tarea1_met.ic" NAME="All in Tarea1_met Coverage Results" MODIFIED="1540510666116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="190" />
@@ -25,12 +70,13 @@
           <entry key="project.closed" value="7" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -78,7 +124,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/packageTarea1/Villager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="170">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
@@ -96,8 +142,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/packageTarea1/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="221">
+              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -148,6 +194,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -190,7 +239,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="761" />
     <option name="height" value="735" />
@@ -201,7 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,27 +257,12 @@
               <item name="Tarea1_met" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tarea1_met" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Tarea1_met" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea1_met" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tarea1_met" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea1_met" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tarea1_met" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea1_met" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="packageTarea1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,7 +271,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540506729121" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540510661485" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/test" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -268,25 +301,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.test">
+  <component name="RunManager" selected="JUnit.All in Tarea1_met">
     <configuration name="All in Tarea1_met" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tarea1_met" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Tarea1_met" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="packageTarea1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="packageTarea1" />
-      <option name="MAIN_CLASS_NAME" value="packageTarea1.Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -301,6 +320,20 @@
       </extension>
       <option name="PACKAGE_NAME" value="packageTarea1.Test" />
       <option name="MAIN_CLASS_NAME" value="packageTarea1.Test.Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tarea1_met" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="packageTarea1" />
+      <option name="MAIN_CLASS_NAME" value="packageTarea1.Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -325,12 +358,12 @@
       <module name="Tarea1_met" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="packageTarea1.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="packageTarea1" />
-      <option name="MAIN_CLASS_NAME" value="packageTarea1.test" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -344,10 +377,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in Tarea1_met" />
         <item itemvalue="JUnit.test" />
         <item itemvalue="JUnit.Test (1)" />
         <item itemvalue="JUnit.Test" />
-        <item itemvalue="JUnit.All in Tarea1_met" />
         <item itemvalue="JUnit.Test.test_id" />
       </list>
     </recent_temporary>
@@ -369,6 +402,7 @@
       <workItem from="1540333264601" duration="4370000" />
       <workItem from="1540422296568" duration="4136000" />
       <workItem from="1540478555209" duration="17715000" />
+      <workItem from="1540510284113" duration="290000" />
     </task>
     <servers />
   </component>
@@ -405,19 +439,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41770000" />
+    <option name="totallyTimeSpent" value="42060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13918306" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3517398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.46885246" />
@@ -429,7 +462,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.09984872" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -439,6 +472,7 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32961783" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.09984872" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
@@ -529,7 +563,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="0.8" x="410.0138888888889" y="223.375" />
+          <settings layout="Hierarchic Group" zoom="0.8" x="410.0" y="223.0" />
           <SelectedNodes />
           <Categories>
             <Category>Methods</Category>
@@ -603,6 +637,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/packageTarea1/Test.class" />
+    <entry file="file://$PROJECT_DIR$/tessst/testt.java" />
+    <entry file="file://$PROJECT_DIR$/test/testsetes.java" />
+    <entry file="file://$PROJECT_DIR$/test/packageTarea1/Test/Test.java" />
+    <entry file="file://$PROJECT_DIR$/test/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/packageTarea1/Test/packageTarea1/Test/Test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/packageTarea1/Unit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/packageTarea1/Villager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/packageTarea1/InfantryUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/packageTarea1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -631,97 +694,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/packageTarea1/Unit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/packageTarea1/Villager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/packageTarea1/Test.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="50" column="23" selection-end-line="174" />
-          <folding>
-            <element signature="e#0#7260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/packageTarea1/Test.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tessst/testt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#7260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/testsetes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3264">
-          <caret line="192" selection-start-line="192" selection-end-line="192" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/packageTarea1/Test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/packageTarea1/InfantryUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/packageTarea1/Test/packageTarea1/Test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/packageTarea1/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="221">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
